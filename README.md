@@ -3,7 +3,6 @@
 ### torch>=1.10.0
 ### numpy>=1.17.2
 ### scipy>=1.6.0
-### Pytorch 1.7.1
 ### Numpy 1.15.0
 
 # Usage
